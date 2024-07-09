@@ -59,13 +59,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshan118&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilshan118&show_icons=true&hide_border=true&locale=en&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilshan118&show_icons=true&locale=en&bg_color=00000000" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan118&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan118&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
