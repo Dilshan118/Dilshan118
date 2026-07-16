@@ -21,7 +21,7 @@ Third-year BSc (Hons) Information Technology undergraduate specializing in **Dat
 
 ### 📌 Featured Projects
 
-**[Retail Customer Behavior & Purchase Pattern Analysis](https://github.com/Dilshan118)**
+**[Retail Customer Behavior & Purchase Pattern Analysis](https://github.com/Dilshan118/Retail-Customer-Behavior---Purchase-Pattern-Analysis)**
 End-to-end pipeline that cleans retail transaction data with Pandas, loads it into PostgreSQL, and surfaces business insights (discount policy, seasonal demand, payment preferences) through SQL analysis and an interactive Power BI dashboard.
 `Python` `Pandas` `PostgreSQL` `SQLAlchemy` `Power BI` `Seaborn`
 
