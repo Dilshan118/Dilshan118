@@ -1,11 +1,8 @@
 # Hi, I'm Dilshan 👋
 
-Third-year BSc (Hons) Information Technology undergraduate specializing in **Data Science** at SLIIT, Sri Lanka. I like turning raw data into pipelines, warehouses, and models that actually answer business questions — and I'm currently looking for a **Data Engineering / Data Analytics / AI Engineering internship**.
+Third-year BSc (Hons) Information Technology undergraduate specializing in **Data Science** at SLIIT, Sri Lanka. I like turning raw data into pipelines, warehouses, and models that actually answer business questions — and I'm currently looking for a **Data Engineering / Data Analytics / AI/ML Engineering internship**.
 
 - 🎓 BSc (Hons) IT — Data Science Specialization, SLIIT (CGPA 3.4)
-- 🔭 Currently building end-to-end data pipelines (ETL → warehouse → BI) and predictive models
-- 🌱 Learning: cloud data engineering on AWS, and productionizing ML models
-- 💬 Ask me about: SSIS/ETL pipelines, star-schema design, Power BI, or classification models
 - 📫 Reach me: dilshanrajapakshe8@gmail.com · [LinkedIn](https://www.linkedin.com/in/dilshan-rajapakshe-0907ba2bb/?skipRedirect=true)
 
 ---
@@ -28,11 +25,11 @@ Third-year BSc (Hons) Information Technology undergraduate specializing in **Dat
 End-to-end pipeline that cleans retail transaction data with Pandas, loads it into PostgreSQL, and surfaces business insights (discount policy, seasonal demand, payment preferences) through SQL analysis and an interactive Power BI dashboard.
 `Python` `Pandas` `PostgreSQL` `SQLAlchemy` `Power BI` `Seaborn`
 
-**Data Warehousing & Business Intelligence (DWBI) System**
+**[Data Warehousing & Business Intelligence (DWBI) System](https://www.linkedin.com/posts/dilshan-rajapakshe-0907ba2bb_assignment-01-and-assignment-02-combined-activity-7470411550072197121-FyeH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzTwuwBAoh7XlI0pfcV4sAM9xAK-vCuB84)**
 4-tier SSIS pipeline processing a sampled 32M-row Instacart dataset into a line-item grain star schema with SCD Type 2 tracking, plus an SSAS OLAP cube and Power BI dashboards.
 `SQL Server` `SSIS` `SSAS` `Star Schema` `Power BI`
 
-**Airline Passenger Loyalty Prediction**
+**[Airline Passenger Loyalty Prediction](https://www.linkedin.com/posts/dilshan-rajapakshe-0907ba2bb_java-springboot-reactjs-activity-7468183627365814273-SUsH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzTwuwBAoh7XlI0pfcV4sAM9xAK-vCuB84)**
 Statistical modeling pipeline on ~130,000 records to predict customer loyalty, using hypothesis testing (Chi-Square, T-Test) and Logistic Regression / Decision Tree / Random Forest classifiers evaluated on ROC-AUC.
 `Python` `scikit-learn` `Statistical Modeling`
 
@@ -53,13 +50,6 @@ MERN-stack farm management platform with a role-based access control (RBAC) data
 ### 🏅 Certifications
 - Python for Data Science, AI & Development — IBM
 - Data Modeling with MongoDB — MongoDB University
-
----
-
-### 📊 GitHub Stats
-
-![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dilshan118&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan118&layout=compact&hide_border=true)
 
 ---
 
